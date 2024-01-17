@@ -16,8 +16,9 @@ Code and data for: ''.
 
 
 ## REFERENCES
-preprint: [www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2024.01.16.575785v1  )
+preprint: [https://doi.org/10.1101/2024.01.16.575785](https://doi.org/10.1101/2024.01.16.575785))
 
 ## Notes
 If you want to run the code, pay attention to the environment configuration and the file path.
 package required:
+https://doi.org/10.1101/2024.01.16.575785
