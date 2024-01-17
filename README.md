@@ -24,6 +24,7 @@ suppress the activity of the cognitive fear circuit under rapid attacks, enablin
 roles of the reactive and cognitive fear circuits in human escaping and provide accounts for the importance of fear in human survival decisions.
 
 ## Experiment
+<img src="./paradigam.jpg">
 During intracranial recordings, participants performed a modified FID task. In this task, participants were instructed to imagine themselves as prey and need to escape from the predator,
 during which they were also instructed to escape as late as possible to obtain more survival resources. The predator would initially move slowly toward the prey and then attack (accelerate)
 at a random distance, which varied depending on two predator types: fast-attacking predators vs. slow-attacking predators. Fast-attacking predators would initiate the attack from a greater distance,
