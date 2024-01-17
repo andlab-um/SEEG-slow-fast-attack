@@ -6,4 +6,18 @@
 > From [Affective, Neuroscience, and Decision-making Lab](https://andlab-um.com)
 
 
-Code and data for:
+
+## Description
+Code and data for: ''.
+
+## Experiment
+
+## Data path and analysis
+
+
+## REFERENCES
+preprint: [www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2024.01.16.575785v1  )
+
+## Notes
+If you want to run the code, pay attention to the environment configuration and the file path.
+package required:
