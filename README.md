@@ -33,11 +33,19 @@ which requires the participants to make quick escape decisions. Slow-attacking p
 ## Data path and analysis
 
 
-## REFERENCES
-preprint: [https://doi.org/10.1101/2024.01.16.575785](https://doi.org/10.1101/2024.01.16.575785)
 
 ## Notes
 If you want to run the code, pay attention to the environment configuration and the file path.
 
 > package required:
+> Python
+
+```bash
+mne
+numpy
+scipy
+pandas
+nibabel
+matplotlib  
+```
 
