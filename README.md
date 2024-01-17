@@ -1,4 +1,4 @@
-# sEEG-slow-fast-attack    <img src="./summary_figure.jpg" align="right" width="500px">
+# sEEG-slow-fast-attack    <img src="./summary_figure.jpeg" align="right" width="500px">
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2FANDlab3)
 ](https://twitter.com/ANDlab3)
 
