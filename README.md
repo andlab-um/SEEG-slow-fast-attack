@@ -8,7 +8,10 @@
 
 
 ## Description
-Code and data for: ''.
+Code and data for: 'An intracranial dissection of human escape circuits'.
+
+![image text](https://github.com/andlab-um/sEEG-slow-fast-attack/blob/main/summary_figure.jpeg)
+
 
 ## Experiment
 
